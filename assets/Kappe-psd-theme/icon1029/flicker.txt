@@ -1,0 +1,7 @@
+<span class="icon-flickr2"></span>
+
+.icon-flickr2:before {
+  content: "\eaa4";
+}
+
+&#xeaa4;

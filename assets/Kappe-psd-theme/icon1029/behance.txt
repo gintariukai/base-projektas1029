@@ -1,0 +1,7 @@
+<span class="icon-behance"></span>
+
+.icon-behance:before {
+  content: "\eaa8";
+}
+
+&#xeaa8;

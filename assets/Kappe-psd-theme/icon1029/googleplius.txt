@@ -1,0 +1,7 @@
+<span class="icon-google-plus"></span>
+
+.icon-google-plus:before {
+  content: "\ea8b";
+}
+
+&#xea8b;

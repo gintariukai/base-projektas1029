@@ -1,0 +1,7 @@
+<span class="icon-facebook2"></span>
+
+.icon-facebook2:before {
+  content: "\ea91";
+}
+
+&#xea91;

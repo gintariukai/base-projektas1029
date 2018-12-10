@@ -1,0 +1,7 @@
+<span class="icon-pinterest2"></span>
+
+.icon-pinterest2:before {
+  content: "\ead2";
+}
+
+&#xead2;

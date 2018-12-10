@@ -1,0 +1,4 @@
+T-18
+A-32
+VA-0
+Color-ffffff
