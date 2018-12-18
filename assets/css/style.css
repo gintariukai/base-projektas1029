@@ -530,8 +530,8 @@ html{
     font-size: 0.8888rem;
     font-family: "Roboto", sans-serif;
     font-weight: 300;
-    color: ##a3a3a3;
-    line-height: 1.6666;
+    color: #a3a3a3;
+    line-height: 1.66;
 }
 
 .reviews-box{
@@ -655,7 +655,7 @@ html{
 }
 
 .link .post-content p{
-    margin: o;
+    margin: 0;
     font-size: 1.125rem;
     color: #fff;
     line-height: 1.444;
@@ -978,12 +978,8 @@ ul{
 .gmap_canvas iframe{
     overflow:hidden;
     background:none!important;
-    width=100%;
-    height=100%;
-    frameborder="0";
-    scrolling="no";
-    marginheight="0";
-    marginwidth="0";
+    width: 100%;
+    height: 100%;
 }
 
 .contact-box{
@@ -1178,11 +1174,11 @@ a.elemadded:hover{
     padding: 18px 24px;
     font-size: 1.125rem;
     font-family: 'Roboto', sans-serif;
-    font-weight: 300
+    font-weight: 300;
     color: #fff;
     text-transform: uppercase;
     text-decoration: none;
-    line-height: 1.1111;
+    line-height: 1.111;
 }
 
 .menu .actifA a:after{
@@ -1375,13 +1371,11 @@ a.elemadded:hover{
 /*>>>>HOME PAGE<<<<*/
     
     .elemadded{
-    -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
-    -webkit-animation-duration: 14s; /* Safari 4.0 - 8.0 */
     animation-name: example;
     animation-duration: 14s;
     }
 
-    @-webkit-keyframes example {
+    @keyframes example{
     from {background-color: #1ab5b3;}
     to {background-color: #85ed32;}
 }
